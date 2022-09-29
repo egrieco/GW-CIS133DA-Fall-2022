@@ -7,3 +7,4 @@ Showcase for class projects from CIS133DA-Fall-2022 at Gateway Community College
 If you would like me to share your resume and/or final project, please add an entry below.
 
     * Name (first only is fine) [Resume](https://YOURUSER.github.io/RESUME), [Website](https://YOURUSER.github.io/SITE)
+Sonia, [Resume] https://soniarb9.github.io/Resume/ [Website] https://soniarb9.github.io/Art-Portfolio-Project/
