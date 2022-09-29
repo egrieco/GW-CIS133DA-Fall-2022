@@ -8,3 +8,4 @@ If you would like me to share your resume and/or final project, please add an en
 
     * Name (first only is fine) [Resume](https://YOURUSER.github.io/RESUME), [Website](https://YOURUSER.github.io/SITE)
 Sonia, [Resume] https://soniarb9.github.io/Resume/ [Website] https://soniarb9.github.io/Art-Portfolio-Project/
+Richard R - [resume] https://github.com/sadlittleonion/sadlittleonion.github.io [dumb little site] https://github.com/sadlittleonion/multiversal-bonfires
