@@ -12,3 +12,5 @@ Richard R - [resume] https://github.com/sadlittleonion/sadlittleonion.github.io 
 Chemeeka - [resume] https://cbahe.github.io/Resume-2/ [website] https://cbahe.github.io/Photography-Portfolio/index.html
 
 Pha N. [resume] https://nguyentpha1999.github.io/resume/ [Website] https://nguyentpha1999.github.io/cis133-Website/
+
+Yareth - [resume] https://wonder3r.github.io/Resume/  [website]https://wonder3r.github.io/HY-Pet-Adoption/
